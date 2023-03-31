@@ -1,8 +1,19 @@
 p{
   color: purple;
-  font-size; 16pt;
+  font-size: 16pt;
 }
   
 ul{
   color: blue;
+  font-weight: bold;
+}
+
+ol{
+  color: pink;
+  font-size: 32pt;
+}
+
+h1{
+  color: blue;
+  font-size: 18pt;
 }
